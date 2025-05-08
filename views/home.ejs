@@ -18,11 +18,13 @@
                     <h2>Marca: <%= producto.marca %></h2>
                     <h3>Modelo: <%= producto.modelo %></h3>
                     <p>Precio: $<%= producto.precio %></p>
+                    <a href="/edit/<%=producto.id%>">Editar</a>
+                     <a href="/delete/<%=producto.id%>?_method=DELETE">Eliminar</a>
                 </div>
                 </li>
             <% }) %>
-            </ul>
-
+        </ul>
+        <a href="/create">Crear un vehículo</a>
     </main>
 
 
