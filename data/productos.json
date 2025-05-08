@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "precio": 10000,
+        "imagen": "ford_fiesta_1.jpg"
+    },
+    {
+        "id": 2,
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "precio": 10000,
+        "imagen": "ford_fiesta_1.jpg"
+    },
+    {
+        "id": 3,
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "precio": 10000,
+        "imagen": "ford_fiesta_1.jpg"
+    }
+
+]
