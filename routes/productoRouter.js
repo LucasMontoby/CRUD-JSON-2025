@@ -22,6 +22,7 @@ router.post("/create", upload.single('imagen'), productoController.stock);
 router.get("/edit/:id", productoController.edit);
 router.put("/edit/:id", upload.single('imagen'), productoController.update);
 
-
+router.get("/delete/:id", productoController.delete);
+router.delete("/delete/:id", productoController.destroy);
 
 module.exports = router;

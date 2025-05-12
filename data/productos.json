@@ -82,12 +82,5 @@
   "modelo": "Fiesta",
   "precio": 10000,
   "imagen": "ford_fiesta_1.jpg"
- },
- {
-  "id": 13,
-  "marca": "Royal Endfiel",
-  "modelo": "Callejera ",
-  "precio": "11111",
-  "imagen": "1746743644715-Pantalla.jpg"
  }
 ]
